@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>신규</h2>
+	<h2>2차수정</h2>
 </body>
 </html>
